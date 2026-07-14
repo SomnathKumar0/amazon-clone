@@ -11,3 +11,6 @@ A front-end recreation of Amazon's homepage built with HTML & CSS, focused on re
 - HTML5
 - CSS3
 - Font Awesome (icons)
+
+## Live Demo
+https://somnathkumar0.github.io/amazon-clone/
