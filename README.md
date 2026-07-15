@@ -1,5 +1,7 @@
 # Amazon UI Clone
 
+> Educational practice project — not affiliated with or endorsed by Amazon.com
+
 A front-end recreation of Amazon's homepage built with HTML & CSS, focused on responsive layout, flexbox, and matching real-world UI patterns.
 
 ## Features
