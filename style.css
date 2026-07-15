@@ -33,7 +33,7 @@ a {
 }
 
 .logo {
-    background-image: url("Logo.svg");
+    background-image: url("images/Logo.svg");
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -179,7 +179,7 @@ span {
 /* body area */
 
 .hero-section {
-    background-image: url("Hero-image.jpg");
+    background-image: url("images/Hero-image.jpg");
     background-size: cover;
     min-height: 350px;
     display: flex;
