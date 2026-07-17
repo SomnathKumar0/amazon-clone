@@ -15,4 +15,4 @@ A front-end recreation of Amazon's homepage built with HTML & CSS, focused on re
 - Font Awesome (icons)
 
 ## Live Demo
-https://somnathkumar0.github.io/amazon-clone/
+Live Demo: Not available (copyright/trademark concerns)
